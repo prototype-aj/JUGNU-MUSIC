@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: process.env.TOKEN || "BOT_TOKEN",
-  PREFIX: process.env.PREFIX || "BOT_PREFIX",
+  TOKEN: process.env.TOKEN || "MTA1NjY1MzgzNjk3MTk0MTkyOA.GA_Xbj.PiepzScGvf6-Vx4h5n4-Nq5xHvZ9J4iSFryvos",
+  PREFIX: process.env.PREFIX || "m!",
   embed: {
     color: process.env.color || "#220f80",
     wrongcolor: process.env.wrongcolor || "#8a0808",
-    footertext: "Coded By Kabir Singh | Tech Boy Development",
+    footertext: "Coded By AJ | Tech Boy Development",
   },
   emoji: {
     ERROR: "❌",
